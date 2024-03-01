@@ -1,2 +1,2 @@
 let k=37
-console.log(k)
+console.log(b)
